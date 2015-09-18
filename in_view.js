@@ -129,3 +129,5 @@ $.pluginMaker(mcrmade.in_view);
 // new commemt added to end
 
 // completely new approach
+
+// and another approach
