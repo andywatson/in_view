@@ -127,3 +127,7 @@ $.extend(mcrmade.in_view.prototype, {
 $.pluginMaker(mcrmade.in_view);
 
 // new commemt added to end
+
+// completely new approach
+
+// and another approach
