@@ -125,3 +125,5 @@ $.extend(mcrmade.in_view.prototype, {
 //
 // make plugin
 $.pluginMaker(mcrmade.in_view);
+
+// new commemt added to end
